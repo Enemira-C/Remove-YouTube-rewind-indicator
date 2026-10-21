@@ -9,7 +9,6 @@
 // @run-at       document-start
 // @updateURL    https://raw.githubusercontent.com/Enemira-C/Remove-YouTube-rewind-indicator/main/remove_yt_rewind_indicator.user.js
 // @downloadURL  https://raw.githubusercontent.com/Enemira-C/Remove-YouTube-rewind-indicator/main/remove_yt_rewind_indicator.user.js
-// ==UserScript==
 // ==/UserScript==
 
 (function() {
